@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html ng-app="medicineApp">
+<head>
+    <meta charset="utf-8" />
+    <title>Medicine Shop</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <style>
+        body {
+            padding-top: 70px;
+        }
+
+       
+    </style>
+</head>
+<body ng-controller="rootCtrl">
+    <nav class="navbar navbar-expand navbar-light shadow fixed-top" style="background-color:#0083c4;">
+        <div class="container d-flex justify-content-between align-items-center">
+            <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand logo h3 fa fa-align-center" href="#">Medicine Shop</a>
+            <div class="align-self-center collapse navbar-collapse flex-fill  d-flex justify-content-end" id="templatemo_main_nav">
+                <div class="flex-fill">
+                    <ul class="nav navbar-nav h6 d-flex justify-content-end mx-lg-3">
+                        <li class="nav-item"><a class="nav-link" href="#!/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!/medIndex">Medicines</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!/geindex">Generic Group</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    </ul>
+                </div>
+                <div class="navbar align-self-center d-flex">
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    <div class="container">
+        <div class="wrapper">
+            <div class="side">
+
+            </div>
+            <div class="main w-100">
+                <ng-view></ng-view>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+    </div>
+
+    <script src="Scripts/angular-route.js"></script>
+    <script type="text/javascript">
+        angular.module("medicineApp", ['ngRoute'])
+            .constant('apiUrl', "http://localhost:65402/api/")
+            .config($routeProvider => {
+                $routeProvider
+                    .when("/", {
+                        templateUrl: "/app/views/home.html"
+                    })
+                    .when("/geindex", {
+                        templateUrl: "/app/views/gIndex.html"
+                    })
+                    .when("/medIndex", {
+                        templateUrl: "/app/views/medicineIndex.html"
+                    })
+                    .when("/editMedicines/:id", {
+                        templateUrl: "/app/views/editMedicines.html"
+                    })
+
+                    .otherwise("/")
+            })
+            .controller("rootCtrl", ($scope, $http, apiUrl, apiService) => {
+                $scope.model = {};
+                $scope.selectedTypeId = null;
+                $scope.current = {};
+                $scope.url = `${apiUrl}Medicines`;
+                //$scope.url = apiUrl;
+                $scope.apiMessage = "";
+
+                apiService.get(`${apiUrl}GenericGroups`)
+                    .then(res => {
+                        $scope.model.genericgroups = res.data;
+                        console.log(res.data);
+                    })
+                apiService.get(`${apiUrl}Medicines`)
+                    .then(res => {
+                        $scope.model.medicines = res.data;
+                        console.log(res.data);
+                    })
+                $scope.selectedTypeFilter = (v) => {
+                    console.log(v);
+                    console.log('selected' + $scope.selectedTypeId);
+                    return $scope.selectedTypeId == null || v.vehicleTypeId == $scope.selectedTypeId;
+                }
+                $scope.$on('selectedTypeChange', (evt, data) => {
+                    console.log('event');
+                    console.log('selected' + data);
+                    $scope.selectedTypeId = data;
+                    console.log('selected' + $scope.selectedTypeId);
+                })
+
+            });
+
+    </script>
+
+    <script src="app/services/apiService.js"></script>
+    <script src="app/controllers/genericgrCtrl.js"></script>
+    <script src="app/controllers/medicinCtrl.js"></script>
+</body>
+</html>

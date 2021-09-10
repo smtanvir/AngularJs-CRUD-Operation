@@ -1,0 +1,35 @@
+﻿<div class="row mt-3" ng-controller="medicineCtrl">
+    <div class="col-md-8 offset-2">
+        <h3 class="text-center mt-1 mb-3">Update Medicines Infromation</h3>
+       
+        <form id="frmMedicinesUpdate" name="frmMedicinesUpdate" role="form" novalidate>
+            <div class="form-group">
+                <label class="control-label">Medicine Name</label>
+                <input type="text" name="mcName" id="mcName" ng-model="current.medicineName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Generic Group</label>
+                <select class="form-select form-select-solid" tabindex="-1" aria-hidden="true" ng-model="current.genericGroupId">
+                    <option value="">-- Select --</option>
+                    <option ng-repeat="gc in model.genericgroups" value="{{gc.id}}">{{gc.groupName}}</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Expire Date</label>
+                <input type="date" name="expDate" id="expDate" ng-model="current.expireDate|date:'dd-MM-yyyy'" value="" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Unit Price</label>
+                <input type="text" name="uPrice" id="uPrice" ng-model="current.unitPrice" class="form-control" />
+            </div>
+            <!--<div class="form-group">
+                <label class="control-label">Product Image</label>
+                <input type="text" name="mcImg" id="mcImg" ng-model="current.imagePath" class="form-control" />
+            </div>-->
+                <div class="d-flex justify-content-end">
+                    <button type="submit" ng-click="update(frmMedicinesUpdate)" class="btn btn-primary btn-lg mt-2" ng-disabled="frmMedicinesUpdate.$invalid">Update</button>
+                </div>
+        </form>
+        <a href="#!/medIndex">Back to List</a>
+    </div>
+</div>

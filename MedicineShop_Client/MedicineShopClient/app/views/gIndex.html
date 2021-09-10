@@ -1,0 +1,103 @@
+﻿
+
+<div class="row" ng-controller="genericgrCtrl">
+    <div class="col-12">
+        <div class="alert alert-warning alert-dismissible fade show" role="alert" ng-show="apiMessage">
+            {{apiMessage}}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        <h2 class="display-6">Generic Group List</h2>
+        <div class="d-flex justify-content-end mb-1">
+            <button class="btn btn-primary btn-sm" ng-click="insert()"><i class="fa fa-plus-circle"></i> Create New</button>
+        </div>
+
+        <table class="table table-bordered">
+            <thead class="bg-light">
+                <tr>
+                    <th>Generic Group ID</th>
+                    <th>Generic Group</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="gc in model.genericgroups">
+                    <td>{{gc.id}}</td>
+                    <td>{{gc.groupName}}</td>
+                    <td>
+                        <button class="btn btn-primary btn-sm" ng-click="edit(gc)">Edit</button>
+                        <button class="btn btn-danger btn-sm" ng-click="confirmDelete(gc)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="modal" tabindex="-1" id="delModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Confirm?</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure to delete this item?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" ng-click="cancelDeleteType()">Close</button>
+                    <button type="button" class="btn btn-danger" ng-click="doDeleteType()">Confirm</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" role="dialog" id="createModal">
+        <div class="modal-dialog modal-dialog-centered mw-750px" role="document">
+            <div class="modal-content rounded">
+                <div class="modal-header pb-0 border-0 justify-content-end">
+                    <h1 class="mb-3">Add New Generic Group</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                        <!--<span aria-hidden="true">&times;</span>-->
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="frmgeneric" name="frmgeneric" role="form" novalidate>
+                        <div class="form-group">
+                            <label class="control-label">Generic Group Name</label>
+                            <input type="text" name="mcName" id="mcName" ng-model="current.groupName" class="form-control" />
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <input type="button" value="Cancel" class="btn btn-warning" data-bs-dismiss="modal" aria-label="Close" />
+                    <input type="submit" value="Save" class="btn btn-success" form="frmgeneric" ng-click="creategroup()" ng-disabled="frmMedicines.$invalid" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" role="dialog" id="editModal">
+        <div class="modal-dialog modal-dialog-centered mw-750px" role="document">
+            <div class="modal-content rounded">
+                <div class="modal-header pb-0 border-0 justify-content-end">
+                    <h1 class="mb-3">Update Generic Group</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                        <!--<span aria-hidden="true">&times;</span>-->
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="frmgenericEdit" name="frmgenericEdit" role="form" novalidate>
+                        <div class="form-group">
+                            <label class="control-label">Generic Group Name</label>
+                            <input type="text" name="mcName" id="mcName" ng-model="current.groupName" class="form-control" />
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <input type="button" value="Cancel" class="btn btn-warning" data-bs-dismiss="modal" aria-label="Close" />
+                    <input type="submit" value="Save" class="btn btn-success" form="frmgenericEdit" ng-click="updateGroup()" ng-disabled="frmMedicines.$invalid" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mb-1">
+    <a href="#!/">Back to Home</a>
+</div>
+

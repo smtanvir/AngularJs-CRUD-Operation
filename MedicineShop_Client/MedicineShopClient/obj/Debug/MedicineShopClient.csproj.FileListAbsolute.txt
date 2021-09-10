@@ -1,0 +1,112 @@
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\MedicineShopClient.dll.config
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\MedicineShopClient.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\MedicineShopClient.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\obj\Debug\MedicineShopClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\obj\Debug\MedicineShopClient.csproj.CopyComplete
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\obj\Debug\MedicineShopClient.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\obj\Debug\MedicineShopClient.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopClient\MedicineShopClient\obj\Debug\MedicineShopClient.csprojAssemblyReference.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\MedicineShopClient.dll.config
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\MedicineShopClient.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\MedicineShopClient.pdb
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csc.exe
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csc.exe.config
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csc.rsp
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csi.exe
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csi.exe.config
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\csi.rsp
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.AppContext.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Collections.Immutable.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Console.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.IO.Compression.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.IO.FileSystem.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.IO.Pipes.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.AccessControl.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Claims.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.ValueTuple.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Xml.XPath.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\vbc.exe
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\vbc.exe.config
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\vbc.rsp
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\VBCSCompiler.exe
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\roslyn\VBCSCompiler.exe.config
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\obj\Debug\MedicineShopClient.csprojAssemblyReference.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\obj\Debug\MedicineShopClient.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\obj\Debug\MedicineShopClient.csproj.CopyComplete
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\obj\Debug\MedicineShopClient.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_Client\MedicineShopClient\obj\Debug\MedicineShopClient.pdb

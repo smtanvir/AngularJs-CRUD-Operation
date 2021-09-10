@@ -1,0 +1,58 @@
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.AssemblyInfo.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.TagHelpers.input.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.TagHelpers.output.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorCoreGenerate.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.deps.json
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.runtimeconfig.json
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.Views.dll
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.Views.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.Views.pdb
+C:\Users\Dell\Desktop\AngularJs\MedicineShopSolution\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csproj.CopyComplete
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.deps.json
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.runtimeconfig.json
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.runtimeconfig.dev.json
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.pdb
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.Views.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\bin\Debug\netcoreapp2.2\MedicineShop.Views.pdb
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csprojAssemblyReference.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorAssemblyInfo.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorAssemblyInfo.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.AssemblyInfoInputs.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.AssemblyInfo.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.TagHelpers.input.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.TagHelpers.output.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorCoreGenerate.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorTargetAssemblyInfo.cache
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.RazorTargetAssemblyInfo.cs
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.Views.pdb
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.dll
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.pdb
+D:\ESAD-CS\Final Project Upload on Career Hub\AngularJS CRUD Operation\MedicineShop_WebAPI\MedicineShop\obj\Debug\netcoreapp2.2\MedicineShop.csproj.CopyComplete
